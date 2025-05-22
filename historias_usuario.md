@@ -3,3 +3,6 @@
 3. Como usuario, quiero editar mi perfil para mantener mi información actualizada.
 4. Como administrador, quiero eliminar usuarios para mantener la seguridad del sistema.
 5. Como usuario, quiero ver un historial de mis actividades para revisar mi progreso.
+
+
+Creado por Andres Rosero -Javier Leon
